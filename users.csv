@@ -1,2 +1,2 @@
-phone,name,age,language,caregiver,medicine,time
-918657120105,swar,41,English,919082355483,sugar,23:30
+phone,language,name,age,caregiver,medicine,reminder_time,state,adherence_taken,adherence_total,awaiting_health_reply,last_health_check_date,updated_at
+918657120105,English,Seeta,65,9082355483,painkiller,00:41,done,2,5,false,,2026-03-27T19:11:11.819507
